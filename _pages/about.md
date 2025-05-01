@@ -1,17 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: # <a href='#'>University of Maryland</a>. Address. Contacts. Motto. Etc.
+subtitle: University of Maryland #<a href='#'>University of Maryland</a>
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: # >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  more_info:  >
+     <p>3330L Van Munching Hall</p>
+     <p>College Park, MD 20742</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
