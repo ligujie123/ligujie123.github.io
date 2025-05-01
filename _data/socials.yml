@@ -20,7 +20,7 @@ email: gujieli@umd.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: gujie-li-a7501b91
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -41,11 +41,11 @@ scholar_userid: ayHQRgQAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
+# work_url: https://www.rhsmith.umd.edu/directory/gujie-li
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://umd-brand.transforms.svdcdn.com/production/uploads/images/shell-example.png?w=258&h=325&auto=compress%2Cformat&fit=crop&dm=1613803092&s=1ab60b2b21d0113207b02698c7f516b5 # can be png, svg, jpg
-  title: UMD
-  url: https://www.rhsmith.umd.edu/directory/gujie-li
+# custom_social: # can be any name here other than the ones already defined above
+  # logo: https://umd-brand.transforms.svdcdn.com/production/uploads/images/shell-example.png?w=258&h=325&auto=compress%2Cformat&fit=crop&dm=1613803092&s=1ab60b2b21d0113207b02698c7f516b5 # can be png, svg, jpg
+  # title: UMD
+  # url: https://www.rhsmith.umd.edu/directory/gujie-li
