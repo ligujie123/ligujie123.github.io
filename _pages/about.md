@@ -30,4 +30,4 @@ Welcome!
 
 I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland. 
 
-`Interests` include
+My `research interests`, `methodologies` include
