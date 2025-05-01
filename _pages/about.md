@@ -30,4 +30,6 @@ Welcome!
 
 I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland. 
 
-My `research interests`, `methodologies` include
+`research interests`: AI, multimodal communication, bias and discrimination in healthcare, education, marketing; entertainment and cultural industry
+
+`methodologies`: causal inference, machine learning, analysis of unstructured data (e.g., text, image, audio, video, network)
