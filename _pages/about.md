@@ -29,4 +29,4 @@ latest_posts:
 
 Welcome!
 
-I am Gujie Li, a Ph.D. Candidate from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland.
+I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland.
