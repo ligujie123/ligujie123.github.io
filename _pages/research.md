@@ -13,6 +13,8 @@ horizontal: false
 *Proceedings of the National Academy of Sciences (2020).*
 - Ritu Agarwal, Michelle Dugas, Jui Ramaprasad, Junjie Luo, **Gujie Li**, and Gordon Gao.
 
+<!-- Placeholder example -->
+<!-- - *[Add upcoming publication title here]* -->
 
 # Working Paper
 **How Do LLMs as Counterparts Impact Human-Provided Mental Healthcare Services? A Study of an Online Mental Health Forum.**
@@ -24,6 +26,8 @@ horizontal: false
 **The Spillover Value of Repeat Buyer: An Empirical Investigation of “Updated Reviews” on Yelp.**
 - **Gujie Li** and Jui Ramaprasad.
 
+<!-- Placeholder example -->
+<!-- - *[Add working paper title here]* -->
 
 # Selected Work in Progress
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights.**
