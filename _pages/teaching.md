@@ -9,14 +9,10 @@ nav_order: 4
 
 # Current
 
-<!-- Placeholder example -->
-<!-- - *[Add current course title here]* -->
+<br>
 
 # Past Teaching Experience
 **Database Systems.**
 *Robert H. Smith School of Business, University of Maryland.*
 - Undergraduate core.
 - Fall 2021 and Spring 2023.
-
-<!-- Placeholder example -->
-<!-- - *[Add past course title here]* -->
