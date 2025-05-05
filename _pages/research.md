@@ -10,7 +10,7 @@ horizontal: false
 ---
 # Publication
 **Socioeconomic privilege and political ideology are associated with racial disparity in COVID-19 vaccination.**
-*Proceedings of the National Academy of Sciences (2020).*
+*Proceedings of the National Academy of Sciences (2021).*
 - Ritu Agarwal, Michelle Dugas, Jui Ramaprasad, Junjie Luo, **Gujie Li**, and Gordon Gao.
 
 <br>
