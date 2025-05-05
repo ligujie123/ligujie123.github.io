@@ -8,8 +8,15 @@ nav_order: 4
 ---
 
 # Current
-**XXX**  
+
+<!-- Placeholder example -->
+<!-- - *[Add current course title here]* -->
 
 # Past Teaching Experience
-`UMD`
-Database Systems (undergraduate core) Fall 2021, Spring 2023
+**Database Systems**
+*University of Maryland.*
+- Undergraduate core.
+- Fall 2021 and Spring 2023.
+
+<!-- Placeholder example -->
+<!-- - *[Add past course title here]* -->
