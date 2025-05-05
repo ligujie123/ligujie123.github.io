@@ -25,6 +25,9 @@ horizontal: false
 **The Spillover Value of Repeat Buyer: An Empirical Investigation of “Updated Reviews” on Yelp.**
 - **Gujie Li** and Jui Ramaprasad.
 
+**Constructing and Mining Misdiagnosis Database.**
+- Hui Fang, Hailiang Huang, **Gujie Li** and Yanhong Li (in alphabetical order).
+
 <br>
 
 # Selected Work in Progress
