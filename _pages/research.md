@@ -17,19 +17,19 @@ horizontal: false
 
 # Working Paper
 **How Do LLMs as Counterparts Impact Human-Provided Mental Healthcare Services? A Study of an Online Mental Health Forum.**
-- **Gujie Li**, Jui Ramaprasad and Lauren Rhue.
+- with Jui Ramaprasad and Lauren Rhue.
 
 **Text vs. Video for Knowledge Communication: Combining a Quasi-experiment and Interpretable Video Analytics.**
-- **Gujie Li**, Jui Ramaprasad, Lauren Rhue and Wen Wang.
+- with Jui Ramaprasad, Lauren Rhue and Wen Wang.
 
 **The Spillover Value of Repeat Buyer: An Empirical Investigation of “Updated Reviews” on Yelp.**
-- **Gujie Li** and Jui Ramaprasad.
+- with Jui Ramaprasad.
 
 **Constructing and Mining Misdiagnosis Database.**
-- Hui Fang, Hailiang Huang, **Gujie Li** and Yanhong Li (in alphabetical order).
+- with Hui Fang, Hailiang Huang, and Yanhong Li.
 
 <br>
 
 # Selected Work in Progress
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights.**
-- Jiannan Xu, **Gujie Li** and Jane Yi Jiang
+- with Jiannan Xu and Jane Yi Jiang
