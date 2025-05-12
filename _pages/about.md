@@ -6,7 +6,7 @@ subtitle: University of Maryland #<a href='#'>University of Maryland</a>
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info:  #>
      #<p>3330L Van Munching Hall</p>
