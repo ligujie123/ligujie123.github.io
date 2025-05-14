@@ -26,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland. You may find a current copy of my CV **here**, and contact me via `gujieli AT umd DOT edu`
+Welcome! I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland. 
 
-**research interests:** I study how emerging technologies such as artificial intelligence and multimodal communication reshape user behavior to generate insights for platform design. I am also committed to addressing broader societal issues, including bias and discrimination. My work primarily focuses on the healthcare, education, entertainment and cultural industries.
+You may find a current copy of my CV **here**, and contact me via `gujieli AT umd DOT edu`
+
+**research interests:** I study how digital technologies such as artificial intelligence and multimodal communication reshape user behavior to generate insights for platform design. I am also committed to addressing broader societal issues, including bias and discrimination. My work primarily focuses on the healthcare, education, entertainment and cultural industries.
 
 **methodologies:** I primarily employ causal inference, natural language processing, and multimedia data analysis, and I am eager to expand my methodological toolkit further.
