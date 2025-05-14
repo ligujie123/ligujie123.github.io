@@ -8,9 +8,9 @@ profile:
   align: left
   image: headshot.JPG
   image_circular: false # crops the image to make it circular
-  more_info:  #>
-     #<p>3330L Van Munching Hall</p>
-     #<p>College Park, MD 20742</p>
+  more_info:  >
+     <p>3330L Van Munching Hall</p>
+     <p>College Park, MD 20742</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,10 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome!
+Welcome! I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland. You may find a current copy of my CV **here**, and contact me via `gujieli AT umd DOT edu`
 
-I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), University of Maryland. You may find a current copy of my CV here, and contact me via `gujieli AT umd DOT edu`
+**research interests:** I am interested in how emerging technologies such as artificial intelligence and multimodal communication reshape user behavior. My research also addresses broader societal issues, including bias and discrimination. I am particularly focused on the domains of healthcare, education, entertainment and culture industries.
 
-`research interests`: AI, multimodal communication, bias and discrimination in healthcare, education, marketing; entertainment and cultural industry
-
-`methodologies`: causal inference, machine learning, analysis of unstructured data (e.g., text, image, audio, video, network)
+**methodologies:** I primarily employ causal inference, natural language processing, and multimedia data analysis, and I am eager to expand my methodological toolkit further.
