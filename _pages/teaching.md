@@ -13,6 +13,6 @@ nav_order: 4
 
 # Past Teaching Experience
 **Database Systems.**
-*Robert H. Smith School of Business, University of Maryland.*
-- Undergraduate core.
+Robert H. Smith School of Business, University of Maryland.
 - Fall 2021 and Spring 2023.
+- Core undergraduate course for Information Systems and Business Analytics majors.
