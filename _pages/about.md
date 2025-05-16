@@ -34,4 +34,4 @@ You may find a current copy of my CV **here**, and contact me via `gujieli[AT]um
 
 **methodologies:** I mainly employ causal inference, natural language processing, and multimedia data analysis, and I am eager to expand my methodological toolkit further.
 
-**personal interests:** Movies (Marvel Studios, Maggie Cheung,...), music (Lady Gaga, Miley Cyrus,...), and I used to watch tennis frequently when my favorite players, such as Roger Federer and Serena Williams, had not yet retired.
+**personal interests:** movie (Marvel Studios, Maggie Cheung,...), music (Lady Gaga, Miley Cyrus,...), and I used to watch tennis frequently when my favorite players, such as Roger Federer and Serena Williams, had not yet retired.
