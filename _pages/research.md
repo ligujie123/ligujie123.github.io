@@ -33,3 +33,6 @@ horizontal: false
 # Selected Work in Progress
 **AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights.**
 - with Jiannan Xu and Jane Yi Jiang
+
+**Gender Bias in Product Endorsement: An Analysis of Book Editorial Reviews.**
+- with
