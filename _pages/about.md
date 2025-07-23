@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: University of Maryland #<a href='#'>University of Maryland</a>
+subtitle: Department of Information Systems and Analytics, National University of Singapore #<a href='#'>University of Maryland</a>
 
 profile:
   align: left
   image: headshot.JPG
   image_circular: false # crops the image to make it circular
   more_info:  >
-     <p>3330L Van Munching Hall</p>
-     <p>College Park, MD 20742</p>
+     #<p>3330L Van Munching Hall</p>
+     #<p>College Park, MD 20742</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,12 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am Gujie Li, a Ph.D. Candidate in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). 
+Welcome! I am Gujie Li, an Assistant Professor of Information Systems and Analytics at [School of Computing](https://www.comp.nus.edu.sg), [National University of Singapore](https://www.nus.edu.sg). I obtained my Ph.D. in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). 
 
-You may find a current copy of my CV **here**, and contact me via `gujieli[AT]umd.edu`
+You may find a current copy of my CV **here**, and contact me via `gujieli[AT]nus.edu.sg`
 
-**research interests:** I study how digital technologies such as artificial intelligence and multimodal communication reshape user behavior to generate insights for platform design. I am also committed to addressing broader societal issues in technology-mediated environments, including bias and discrimination. My work primarily focuses on the healthcare, education, entertainment and cultural industries.
+**research interests:** I study how technological innovations including artificial intelligence, multimodal communication and platform policy reshape user behavior. I am also committed to addressing broader societal issues in technology-mediated environments, including bias and discrimination. My current work primarily focuses on the healthcare, education, entertainment and cultural industries.
 
 **methodologies:** I mainly employ causal inference, natural language processing, and multimedia data analysis, and I am eager to expand my methodological toolkit further.
-
-**personal interests:** movie (Marvel Studios, Maggie Cheung, ...), music (Lady Gaga, Miley Cyrus, ...), and I used to watch tennis frequently when my favorite players, such as Roger Federer and Serena Williams, had not yet retired.
