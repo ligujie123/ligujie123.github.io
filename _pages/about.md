@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Department of Information Systems and Analytics, National University of Singapore #<a href='#'>University of Maryland</a>
+subtitle: National University of Singapore #<a href='#'>University of Maryland</a>
 
 profile:
   align: left
