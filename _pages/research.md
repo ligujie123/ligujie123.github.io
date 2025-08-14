@@ -25,14 +25,12 @@ horizontal: false
 **The Spillover Value of Repeat Buyer: An Empirical Investigation of “Updated Reviews” on Yelp.**
 - with Jui Ramaprasad.
 
-**Constructing and Mining Misdiagnosis Database.**
-- with Hui Fang, Hailiang Huang, and Yanhong Li.
+**AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights.**
+- with Jiannan Xu and Jane Yi Jiang
 
 <br>
 
 # Selected Work in Progress
-**AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights.**
-- with Jiannan Xu and Jane Yi Jiang
 
 **Gender Bias in Product Endorsement: An Analysis of Book Editorial Reviews.**
-- with
+- with Weihong Zhao
