@@ -31,5 +31,3 @@ You may find a current copy of my CV **here**, and contact me via `gujieli[AT]nu
 **research interests:** I study how technological innovations including artificial intelligence, multimodal communication and platform policy reshape user behavior. I am also committed to addressing broader societal issues in technology-mediated environments, including bias and discrimination. My current work primarily focuses on the healthcare, education, entertainment and cultural industries.
 
 **methodologies:** I mainly employ causal inference, natural language processing, and multimedia data analysis, and I am open to expand my methodological toolkit further.
-
-I welcome the opportunity to collaborate should our research interests align.
