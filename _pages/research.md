@@ -34,3 +34,5 @@ horizontal: false
 
 **Gender Bias in Product Endorsement: An Analysis of Book Editorial Reviews.**
 - with Weihong Zhao
+
+**Digital Platform Access and Women’s Welfare.**
