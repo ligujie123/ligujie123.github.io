@@ -34,3 +34,6 @@ horizontal: false
 
 **Gender Bias in Product Endorsement: An Analysis of Book Editorial Reviews.**
 - with Weihong Zhao
+
+**Learning from Mistakes: Constructing and Mining Misdiagnosis Database.**
+- with Hui Fang, Hailiang Huang, Yanhong Li
