@@ -30,4 +30,4 @@ You may find a current copy of my CV [here](https://drive.google.com/file/d/1LPA
 
 **research interests:** I study how technological innovations including artificial intelligence, multimodal communication and platform policy reshape user behavior. I am also committed to addressing broader societal issues in technology-mediated environments, with a focus on supporting socially marginalized groups. My current work primarily focuses on the healthcare, education, entertainment and cultural industries.
 
-**methodologies:** I mainly employ causal inference, natural language processing, and multimedia data analysis, and I am open to expand my methodological toolkit further.
+**methodologies:** I primarily employ econometric methods in combination with machine and deep learning to analyze large-scale structured and unstructured data, including text, audio, video and, networks. I am open to expand my methodological toolkit further.
