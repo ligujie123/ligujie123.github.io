@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am Gujie Li, an Assistant Professor of Information Systems and Analytics at [School of Computing](https://www.comp.nus.edu.sg), [National University of Singapore](https://www.nus.edu.sg). I obtained my Ph.D. in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). 
+Welcome! I am Gujie Li, Assistant Professor of Information Systems and Analytics at [National University of Singapore](https://www.nus.edu.sg). I obtained my Ph.D. in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). 
 
 You may find a current copy of my CV [here](https://drive.google.com/file/d/1pkd6QT1XWbiGrvKlA075a2lin30HsuDD/view?usp=sharing), and contact me via `gujieli[AT]nus.edu.sg`
 
