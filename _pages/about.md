@@ -26,7 +26,7 @@ latest_posts:
 
 Welcome! I am Gujie Li, an Assistant Professor of Information Systems and Analytics at [School of Computing](https://www.comp.nus.edu.sg), [National University of Singapore](https://www.nus.edu.sg). I obtained my Ph.D. in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). 
 
-You may find a current copy of my CV [here](https://drive.google.com/file/d/1LPAE1PX33pvrjoxvYTfQfIBVyDLauorI/view?usp=share_link), and contact me via `gujieli[AT]nus.edu.sg`
+You may find a current copy of my CV [here](https://drive.google.com/file/d/1pkd6QT1XWbiGrvKlA075a2lin30HsuDD/view?usp=sharing), and contact me via `gujieli[AT]nus.edu.sg`
 
 **research interests:** I study how technological innovations including artificial intelligence, multimodal communication and platform policy reshape user behavior. I am also committed to addressing broader societal issues in technology-mediated environments, with a focus on supporting socially marginalized groups. My current work primarily focuses on the healthcare, education, entertainment and cultural industries.
 
