@@ -28,8 +28,6 @@ Welcome! I am Gujie Li, Assistant Professor of Information Systems and Analytics
 
 You may find a current copy of my CV [here](https://drive.google.com/file/d/1sp1D-Gymls5K76Ygjg56b9vB_L2KRMKD/view?usp=share_link), and contact me via `gujieli[AT]nus.edu.sg`
 
-**research interests:** I study how technological innovations including artificial intelligence, multimodal communication and platform policy shape user behavior and experience. I am also committed to addressing broader societal issues in technology-mediated environments, with a focus on supporting socially marginalized groups. My current work primarily focuses on the healthcare, education, entertainment and cultural industries.
+**research interests:** I focus (1) digital platform design such as artificial intelligence, multimodal communication, and platform policies and its implication on user behavior and experience; and (2) societal issues in technology-mediated environments. My current work mainly focuses on the healthcare, education, and cultural product industries.
 
 **methodologies:** I primarily employ econometric methods in combination with machine and deep learning to analyze large-scale structured and unstructured data, including text, audio, video and networks. I am open to expand my methodological toolkit further.
-
-**personal:** I’m a podcast lover and a movie enthusiast (especially a fan of Maggie Cheung). I also love music: I’ve been Gaga's Little Monster since high school and a Miley Cyrus fan since her Hannah Montana days. I’m also passionate about design communication. All of these explain why I’m naturally drawn to studying the entertainment and cultural industries in my research.
