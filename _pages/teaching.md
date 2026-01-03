@@ -8,15 +8,13 @@ nav_order: 4
 ---
 
 # Current
-- **(IS2109) AI and Machine Learning Techniques I**
-- **School of Computing, National University of Singapore.**
+- **(IS2109) AI and Machine Learning Techniques I, School of Computing, National University of Singapore.**
 - **Spring 2026**
 
 <br>
 
 # Past Teaching Experience
-- **(BMGT402) Database Systems**
-- **Robert H. Smith School of Business, University of Maryland.**
+- **(BMGT402) Database Systems, obert H. Smith School of Business, University of Maryland.**
 - **Fall 2021 and Spring 2023**
 - "I liked how Professor Li explained the material in a very detailed and easy–to–understand manner. He would go slow and repeat the concept to reinforce it to ensure all of us understood it. He also provided many examples and the weekly activities were especially helpful in testing our knowledge too."
 - "You could tell professor Li knew a lot about the topics that he went over in class, and I feel that this definitely helped me understand the concepts better."
