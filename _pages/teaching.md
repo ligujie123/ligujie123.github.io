@@ -21,3 +21,5 @@ nav_order: 4
 - "I liked how Professor Li, instead of ( like most professors) read off the slides and continue on. He would not only read it but he would breakdown information in his own words and provide examples both verbally and also write examples on the white board. I liked when he did this because I would take notes and it would help me understand the information much better."
 - "The professor was super kind and communicative. PowerPoints and lectures were thorough."
 - "shout out for gujie!!!! YOU ARE MY GOD!!!!!!!!!! Nice, responsible, patient prof! Really care about the student!!"
+- "Always being extremely helpful when I come to your office hours. I couldn't thank you enough! You're fantastic!"
+- "I wanted to thank you for your exceptional guidance throughout BMGT402. Your knowledge and dedication to teaching have made a impact on my personal career goal."
