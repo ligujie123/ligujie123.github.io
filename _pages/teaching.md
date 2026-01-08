@@ -22,4 +22,4 @@ nav_order: 4
 - "The professor was super kind and communicative. PowerPoints and lectures were thorough."
 - "shout out for gujie!!!! YOU ARE MY GOD!!!!!!!!!! Nice, responsible, patient prof! Really care about the student!!"
 - "Always being extremely helpful when I come to your office hours. I couldn't thank you enough! You're fantastic!"
-- "I wanted to thank you for your exceptional guidance throughout BMGT402. Your knowledge and dedication to teaching have made a impact on my personal career goal."
+- "I wanted to thank you for your exceptional guidance throughout BMGT402. Your knowledge and dedication to teaching have made an impact on my personal career goal."
