@@ -30,4 +30,4 @@ You may find a current copy of my CV [here](https://drive.google.com/file/d/1CTf
 
 **research interests:** I focus on (1) `digital platform design` such as artificial intelligence, multimodal communication, and platform policies, and its implication on user behavior and experience; and (2) `societal issues` in technology-mediated environments. My current work mainly focuses on healthcare and cultural product industries.
 
-**methodologies:** I am mostly comfortable using (and reviewing papers that apply) reduced-form econometrics and experimental methods. I also use machine learning in my research.
+**methodologies:** I am mostly comfortable using (and reviewing papers that apply) reduced-form econometrics and experimental methods. I also incorporate some machine learning techniques in my research.
