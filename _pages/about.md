@@ -26,6 +26,6 @@ latest_posts:
 
 I am an Assistant Professor of Information Systems and Analytics at [National University of Singapore](https://www.nus.edu.sg). I obtained my Ph.D. in Information Systems from [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). 
 
-My research focuses on understanding human behavior in platform- and algorithm-mediated contexts, particularly in relation to platform design and policy, as well as artificial intelligence. Methodologically, I employ applied econometrics, causal inference, and machine learning.
+My research focuses on understanding human behavior in platform- and algorithm-mediated contexts, including those shaped by platform design and policy, as well as artificial intelligence. Methodologically, I employ applied econometrics, causal inference, and machine learning.
 
 You may find a current copy of my CV [here](https://drive.google.com/file/d/1CTfwOiQH0EWm67CCniDmX6CG4PbAw8XP/view?usp=sharing), and contact me via `gujieli[AT]nus.edu.sg`
