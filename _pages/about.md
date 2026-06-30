@@ -28,6 +28,4 @@ Welcome! I am Gujie Li, Assistant Professor of Information Systems and Analytics
 
 You may find a current copy of my CV [here](https://drive.google.com/file/d/1CTfwOiQH0EWm67CCniDmX6CG4PbAw8XP/view?usp=sharing), and contact me via `gujieli[AT]nus.edu.sg`
 
-**Research Interests:** I focus on (1) `digital platform design` such as artificial intelligence, multimodal communication, and platform policies, and its implication on user behavior and experience; and (2) `societal issues` in technology-mediated environments.
-
-**Methodologies:** Applied Econometrics, Causal Inference, Machine Learning
+My research focuses on the economic and behavioral implications of digital platform design and emerging technologies. Methodologically, I employ applied econometrics, causal inference, and machine learning.
